@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://unrealanatomy.netlify.app/sitemap.xml
